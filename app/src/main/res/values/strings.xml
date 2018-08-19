@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">customToasts</string>
+    <string name="showButtonText">SHOW</string>
+    <string name="cat_say">Give Me FOOD !!</string>
+</resources>
